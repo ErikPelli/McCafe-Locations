@@ -1,0 +1,1626 @@
+[
+    {
+        "location": "Abbiategrasso",
+        "store_id": "0405"
+    },
+    {
+        "location": "Acireale Drive",
+        "store_id": "0304"
+    },
+    {
+        "location": "Acqui Terme",
+        "store_id": "0894"
+    },
+    {
+        "location": "Affi Drive",
+        "store_id": "0192"
+    },
+    {
+        "location": "Afragola",
+        "store_id": "0125"
+    },
+    {
+        "location": "Agrigento",
+        "store_id": "0244"
+    },
+    {
+        "location": "Alessandria",
+        "store_id": "0032"
+    },
+    {
+        "location": "Alessandria Giordano Bruno",
+        "store_id": "0743"
+    },
+    {
+        "location": "Ancona Baraccola",
+        "store_id": "0259"
+    },
+    {
+        "location": "Ancona Torrette",
+        "store_id": "0807"
+    },
+    {
+        "location": "Antegnate",
+        "store_id": "0568"
+    },
+    {
+        "location": "Anzio",
+        "store_id": "0410"
+    },
+    {
+        "location": "Aosta",
+        "store_id": "0049"
+    },
+    {
+        "location": "Appiano Gentile",
+        "store_id": "0740"
+    },
+    {
+        "location": "Aprilia Mascagni Drive",
+        "store_id": "0764"
+    },
+    {
+        "location": "Arcore Drive",
+        "store_id": "0808"
+    },
+    {
+        "location": "Arese Mall",
+        "store_id": "0742"
+    },
+    {
+        "location": "Ascoli Piceno Drive",
+        "store_id": "0768"
+    },
+    {
+        "location": "Assago",
+        "store_id": "0496"
+    },
+    {
+        "location": "Assisi",
+        "store_id": "0120"
+    },
+    {
+        "location": "Asti Consorzio",
+        "store_id": "0427"
+    },
+    {
+        "location": "Avezzano",
+        "store_id": "0645"
+    },
+    {
+        "location": "Bagnolo Cremasco",
+        "store_id": "0318"
+    },
+    {
+        "location": "Bari Casamassima",
+        "store_id": "0253"
+    },
+    {
+        "location": "Bari Mungivacca",
+        "store_id": "0403"
+    },
+    {
+        "location": "Bari Santa Caterina",
+        "store_id": "0194"
+    },
+    {
+        "location": "Bari Sparano",
+        "store_id": "0070"
+    },
+    {
+        "location": "Bari Tangenziale",
+        "store_id": "0592"
+    },
+    {
+        "location": "Barletta",
+        "store_id": "0746"
+    },
+    {
+        "location": "Bassano",
+        "store_id": "0526"
+    },
+    {
+        "location": "Bellinzago",
+        "store_id": "0371"
+    },
+    {
+        "location": "Belluno",
+        "store_id": "0681"
+    },
+    {
+        "location": "Belpasso CT",
+        "store_id": "0352"
+    },
+    {
+        "location": "Bergamo P.za Marconi",
+        "store_id": "2189"
+    },
+    {
+        "location": "Biella",
+        "store_id": "0212"
+    },
+    {
+        "location": "Binasco",
+        "store_id": "0227"
+    },
+    {
+        "location": "Bologna S. Lazzaro",
+        "store_id": "0158"
+    },
+    {
+        "location": "Bologna Stalingrado",
+        "store_id": "0565"
+    },
+    {
+        "location": "Bologna Togliatti Drive",
+        "store_id": "0265"
+    },
+    {
+        "location": "Bologna via Larga",
+        "store_id": "0763"
+    },
+    {
+        "location": "Bologna VIII Agosto",
+        "store_id": "0600"
+    },
+    {
+        "location": "Bolzano Mall",
+        "store_id": "0778"
+    },
+    {
+        "location": "Bolzano Piazza Parrocchia",
+        "store_id": "0853"
+    },
+    {
+        "location": "Borgomanero Drive",
+        "store_id": "0828"
+    },
+    {
+        "location": "Bracciano",
+        "store_id": "0663"
+    },
+    {
+        "location": "Brembate Drive",
+        "store_id": "0657"
+    },
+    {
+        "location": "Brescia Campogrande",
+        "store_id": "0073"
+    },
+    {
+        "location": "Brescia Continente",
+        "store_id": "0104"
+    },
+    {
+        "location": "Brindisi",
+        "store_id": "0706"
+    },
+    {
+        "location": "Busnago",
+        "store_id": "0020"
+    },
+    {
+        "location": "Busto Arsizio",
+        "store_id": "2186"
+    },
+    {
+        "location": "Cagliari Peretti",
+        "store_id": "0724"
+    },
+    {
+        "location": "Cagliari S. Simone",
+        "store_id": "2156"
+    },
+    {
+        "location": "Campi Bisenzio",
+        "store_id": "0056"
+    },
+    {
+        "location": "Carbonia Drive",
+        "store_id": "0842"
+    },
+    {
+        "location": "Carini",
+        "store_id": "0495"
+    },
+    {
+        "location": "Carpi",
+        "store_id": "0392"
+    },
+    {
+        "location": "Casalecchio Di Reno 1",
+        "store_id": "0130"
+    },
+    {
+        "location": "Casalpusterlengo",
+        "store_id": "0546"
+    },
+    {
+        "location": "Casoria",
+        "store_id": "0540"
+    },
+    {
+        "location": "Cassano",
+        "store_id": "0482"
+    },
+    {
+        "location": "Castegnato",
+        "store_id": "0739"
+    },
+    {
+        "location": "Castel Maggiore",
+        "store_id": "0596"
+    },
+    {
+        "location": "Castel Romano",
+        "store_id": "0580"
+    },
+    {
+        "location": "Castelletto Ticino",
+        "store_id": "2109"
+    },
+    {
+        "location": "Castelvetrano",
+        "store_id": "0501"
+    },
+    {
+        "location": "Castiglione delle Stiviere",
+        "store_id": "0719"
+    },
+    {
+        "location": "Castione Andevenno",
+        "store_id": "0282"
+    },
+    {
+        "location": "Catania",
+        "store_id": "0115"
+    },
+    {
+        "location": "Catania Aeroporto",
+        "store_id": "0859"
+    },
+    {
+        "location": "Catania Gravina",
+        "store_id": "0433"
+    },
+    {
+        "location": "Catania Mall",
+        "store_id": "0738"
+    },
+    {
+        "location": "Catania S. Giovanni",
+        "store_id": "0444"
+    },
+    {
+        "location": "Catania Tenutella",
+        "store_id": "0535"
+    },
+    {
+        "location": "Catania Ulisse",
+        "store_id": "0446"
+    },
+    {
+        "location": "Catanzaro Le Fontane",
+        "store_id": "0450"
+    },
+    {
+        "location": "Cecina",
+        "store_id": "0699"
+    },
+    {
+        "location": "Cento",
+        "store_id": "0404"
+    },
+    {
+        "location": "Cerro Maggiore Drive",
+        "store_id": "0820"
+    },
+    {
+        "location": "Cesano Boscone",
+        "store_id": "0347"
+    },
+    {
+        "location": "Cesena Cattaneo",
+        "store_id": "0827"
+    },
+    {
+        "location": "Cesena Cervese",
+        "store_id": "0415"
+    },
+    {
+        "location": "Chioggia",
+        "store_id": "0633"
+    },
+    {
+        "location": "Chivasso",
+        "store_id": "0675"
+    },
+    {
+        "location": "Ciampino",
+        "store_id": "0710"
+    },
+    {
+        "location": "Cinisello Mall",
+        "store_id": "0567"
+    },
+    {
+        "location": "Cinisello Testi1",
+        "store_id": "3225"
+    },
+    {
+        "location": "Cinisello Valtellina",
+        "store_id": "0789"
+    },
+    {
+        "location": "Civitavecchia",
+        "store_id": "0080"
+    },
+    {
+        "location": "Collegno Corso Francia",
+        "store_id": "0800"
+    },
+    {
+        "location": "Cologno Monzese",
+        "store_id": "0214"
+    },
+    {
+        "location": "Colonnella",
+        "store_id": "0268"
+    },
+    {
+        "location": "Como",
+        "store_id": "2107"
+    },
+    {
+        "location": "Concesio Triumplina",
+        "store_id": "0258"
+    },
+    {
+        "location": "Concorezzo",
+        "store_id": "0838"
+    },
+    {
+        "location": "Cornuda",
+        "store_id": "0776"
+    },
+    {
+        "location": "Corridonia",
+        "store_id": "0525"
+    },
+    {
+        "location": "Corsico",
+        "store_id": "0166"
+    },
+    {
+        "location": "Cosenza Bilotti Museo",
+        "store_id": "0878"
+    },
+    {
+        "location": "Cremona Drive",
+        "store_id": "0229"
+    },
+    {
+        "location": "Crotone Passovecchio",
+        "store_id": "0677"
+    },
+    {
+        "location": "Curno",
+        "store_id": "0014"
+    },
+    {
+        "location": "Curno via Bergamo",
+        "store_id": "0818"
+    },
+    {
+        "location": "Curtatone",
+        "store_id": "0514"
+    },
+    {
+        "location": "Dalmine",
+        "store_id": "0692"
+    },
+    {
+        "location": "Darfo Boario Terme",
+        "store_id": "0260"
+    },
+    {
+        "location": "Desenzano Sul Garda",
+        "store_id": "3226"
+    },
+    {
+        "location": "Desio",
+        "store_id": "0520"
+    },
+    {
+        "location": "Domodossola",
+        "store_id": "0636"
+    },
+    {
+        "location": "Dossobuono",
+        "store_id": "0790"
+    },
+    {
+        "location": "Eboli",
+        "store_id": "0529"
+    },
+    {
+        "location": "Enna",
+        "store_id": "0896"
+    },
+    {
+        "location": "Erba",
+        "store_id": "3221"
+    },
+    {
+        "location": "Erbusco",
+        "store_id": "0127"
+    },
+    {
+        "location": "Fabriano Via Dante",
+        "store_id": "1005"
+    },
+    {
+        "location": "Faenza",
+        "store_id": "0429"
+    },
+    {
+        "location": "Falconara",
+        "store_id": "0667"
+    },
+    {
+        "location": "Fano",
+        "store_id": "0703"
+    },
+    {
+        "location": "Ferrara Drive",
+        "store_id": "0183"
+    },
+    {
+        "location": "Ferrara Sud",
+        "store_id": "0467"
+    },
+    {
+        "location": "Ferrara Trento E Trieste",
+        "store_id": "3238"
+    },
+    {
+        "location": "Fidenza",
+        "store_id": "0578"
+    },
+    {
+        "location": "Firenze Agnelli",
+        "store_id": "0255"
+    },
+    {
+        "location": "Firenze Esterno Stazione",
+        "store_id": "2197"
+    },
+    {
+        "location": "Firenze Nenni",
+        "store_id": "0270"
+    },
+    {
+        "location": "Firenze Osmannoro",
+        "store_id": "0485"
+    },
+    {
+        "location": "Firenze Senese",
+        "store_id": "0704"
+    },
+    {
+        "location": "Firenze Stazione Griglia",
+        "store_id": "0096"
+    },
+    {
+        "location": "Fiume Veneto",
+        "store_id": "0500"
+    },
+    {
+        "location": "Fiumicino via del Faro",
+        "store_id": "0690"
+    },
+    {
+        "location": "Foggia Mall",
+        "store_id": "0817"
+    },
+    {
+        "location": "Foggia Mezzogiorno",
+        "store_id": "0760"
+    },
+    {
+        "location": "Foligno Drive",
+        "store_id": "0771"
+    },
+    {
+        "location": "Frosinone Lepini",
+        "store_id": "0523"
+    },
+    {
+        "location": "Gallarate via Milano",
+        "store_id": "0416"
+    },
+    {
+        "location": "Garbagnate",
+        "store_id": "0395"
+    },
+    {
+        "location": "Garlate",
+        "store_id": "0610"
+    },
+    {
+        "location": "Gela",
+        "store_id": "0614"
+    },
+    {
+        "location": "Gerenzano",
+        "store_id": "0814"
+    },
+    {
+        "location": "Ghedi",
+        "store_id": "0892"
+    },
+    {
+        "location": "Gioia Tauro",
+        "store_id": "0539"
+    },
+    {
+        "location": "Giugliano",
+        "store_id": "0362"
+    },
+    {
+        "location": "Grandate",
+        "store_id": "0707"
+    },
+    {
+        "location": "Gravellona Toce",
+        "store_id": "0364"
+    },
+    {
+        "location": "Grosseto",
+        "store_id": "0239"
+    },
+    {
+        "location": "Guidonia",
+        "store_id": "0563"
+    },
+    {
+        "location": "Imperia Drive",
+        "store_id": "0836"
+    },
+    {
+        "location": "Induno Olona",
+        "store_id": "0841"
+    },
+    {
+        "location": "Jesi",
+        "store_id": "0493"
+    },
+    {
+        "location": "Jesolo",
+        "store_id": "0411"
+    },
+    {
+        "location": "L' Aquila",
+        "store_id": "0136"
+    },
+    {
+        "location": "Ladispoli",
+        "store_id": "0717"
+    },
+    {
+        "location": "Lainate",
+        "store_id": "0502"
+    },
+    {
+        "location": "Lamezia Terme Drive",
+        "store_id": "0620"
+    },
+    {
+        "location": "Latina Fiori",
+        "store_id": "3198"
+    },
+    {
+        "location": "Latina Isonzo",
+        "store_id": "0702"
+    },
+    {
+        "location": "Latina Romagnoli",
+        "store_id": "0058"
+    },
+    {
+        "location": "Lecce Surbo",
+        "store_id": "0558"
+    },
+    {
+        "location": "Lecco",
+        "store_id": "0048"
+    },
+    {
+        "location": "Legnago",
+        "store_id": "0385"
+    },
+    {
+        "location": "Legnano",
+        "store_id": "0484"
+    },
+    {
+        "location": "Lentate sul Seveso",
+        "store_id": "0263"
+    },
+    {
+        "location": "Lipomo",
+        "store_id": "0668"
+    },
+    {
+        "location": "Locate Triulzi Outlet",
+        "store_id": "0783"
+    },
+    {
+        "location": "Lodi Tangenziale Est",
+        "store_id": "0100"
+    },
+    {
+        "location": "Lonato",
+        "store_id": "0380"
+    },
+    {
+        "location": "Loreto",
+        "store_id": "0577"
+    },
+    {
+        "location": "Lucca Capannori",
+        "store_id": "0686"
+    },
+    {
+        "location": "Lugo",
+        "store_id": "0572"
+    },
+    {
+        "location": "Maddaloni Drive",
+        "store_id": "0640"
+    },
+    {
+        "location": "Magenta",
+        "store_id": "0730"
+    },
+    {
+        "location": "Malnate",
+        "store_id": "0474"
+    },
+    {
+        "location": "Marcianise",
+        "store_id": "0409"
+    },
+    {
+        "location": "Marcon Galleria",
+        "store_id": "0432"
+    },
+    {
+        "location": "Marghera Mall",
+        "store_id": "0727"
+    },
+    {
+        "location": "Merano",
+        "store_id": "0765"
+    },
+    {
+        "location": "Mercogliano",
+        "store_id": "0243"
+    },
+    {
+        "location": "Messina Cairoli",
+        "store_id": "0629"
+    },
+    {
+        "location": "Mestre Terraglio",
+        "store_id": "0518"
+    },
+    {
+        "location": "Mestre Tosatto Mall",
+        "store_id": "0693"
+    },
+    {
+        "location": "Milano Antonini",
+        "store_id": "0144"
+    },
+    {
+        "location": "Milano Bonola",
+        "store_id": "0009"
+    },
+    {
+        "location": "Milano Centrale 2",
+        "store_id": "2174"
+    },
+    {
+        "location": "Milano Certosa",
+        "store_id": "0079"
+    },
+    {
+        "location": "Milano Corso Lodi",
+        "store_id": "0680"
+    },
+    {
+        "location": "Milano Duomo",
+        "store_id": "2102"
+    },
+    {
+        "location": "Milano Farini",
+        "store_id": "0037"
+    },
+    {
+        "location": "Milano Galleria Fontana",
+        "store_id": "0658"
+    },
+    {
+        "location": "Milano Lorenteggio Drive",
+        "store_id": "0644"
+    },
+    {
+        "location": "Milano Oberdan",
+        "store_id": "0417"
+    },
+    {
+        "location": "Milano P.le Loreto",
+        "store_id": "2111"
+    },
+    {
+        "location": "Milano Rogoredo",
+        "store_id": "2146"
+    },
+    {
+        "location": "Milano Rubicone",
+        "store_id": "2148"
+    },
+    {
+        "location": "Milano Sabotino",
+        "store_id": "0012"
+    },
+    {
+        "location": "Milano San Babila",
+        "store_id": "2101"
+    },
+    {
+        "location": "Milano Stazione Centrale Interno",
+        "store_id": "0664"
+    },
+    {
+        "location": "Milano via Dante",
+        "store_id": "0844"
+    },
+    {
+        "location": "Milano Via Novara",
+        "store_id": "0308"
+    },
+    {
+        "location": "Milano via Torino",
+        "store_id": "0852"
+    },
+    {
+        "location": "Milano XXIV Maggio",
+        "store_id": "0053"
+    },
+    {
+        "location": "Milazzo",
+        "store_id": "0511"
+    },
+    {
+        "location": "Mirandola",
+        "store_id": "0551"
+    },
+    {
+        "location": "Modena Bruciata",
+        "store_id": "3222"
+    },
+    {
+        "location": "Modena Emilia Est",
+        "store_id": "0716"
+    },
+    {
+        "location": "Modena Ovest",
+        "store_id": "0167"
+    },
+    {
+        "location": "Modena Portali",
+        "store_id": "2187"
+    },
+    {
+        "location": "Molfetta",
+        "store_id": "0441"
+    },
+    {
+        "location": "Moncalieri",
+        "store_id": "0348"
+    },
+    {
+        "location": "Monfalcone",
+        "store_id": "0618"
+    },
+    {
+        "location": "Monselice",
+        "store_id": "0815"
+    },
+    {
+        "location": "Montano Lucino",
+        "store_id": "0317"
+    },
+    {
+        "location": "Montebello",
+        "store_id": "0069"
+    },
+    {
+        "location": "Montecatini Camporcioni",
+        "store_id": "0691"
+    },
+    {
+        "location": "Montecchio Drive",
+        "store_id": "0250"
+    },
+    {
+        "location": "Montepaone",
+        "store_id": "0187"
+    },
+    {
+        "location": "Monterotondo",
+        "store_id": "0538"
+    },
+    {
+        "location": "Montesilvano",
+        "store_id": "0114"
+    },
+    {
+        "location": "Monza V.le Lombardia",
+        "store_id": "0161"
+    },
+    {
+        "location": "Monza Via Milano",
+        "store_id": "0112"
+    },
+    {
+        "location": "Napoli Galleria Umberto",
+        "store_id": "0809"
+    },
+    {
+        "location": "Napoli Stadio Fuorigrotta",
+        "store_id": "0206"
+    },
+    {
+        "location": "Navacchio",
+        "store_id": "0797"
+    },
+    {
+        "location": "Nettuno",
+        "store_id": "0621"
+    },
+    {
+        "location": "Nichelino",
+        "store_id": "0679"
+    },
+    {
+        "location": "Nocera Superiore",
+        "store_id": "0421"
+    },
+    {
+        "location": "Nola",
+        "store_id": "0372"
+    },
+    {
+        "location": "Novara Sporting",
+        "store_id": "0428"
+    },
+    {
+        "location": "Novate Milanese",
+        "store_id": "0143"
+    },
+    {
+        "location": "Nuoro",
+        "store_id": "0804"
+    },
+    {
+        "location": "Olbia",
+        "store_id": "2165"
+    },
+    {
+        "location": "Olbia Indonesia",
+        "store_id": "0662"
+    },
+    {
+        "location": "Olgiate Olona",
+        "store_id": "0626"
+    },
+    {
+        "location": "Orio al Serio",
+        "store_id": "0129"
+    },
+    {
+        "location": "Oristano",
+        "store_id": "0154"
+    },
+    {
+        "location": "Orte Drive",
+        "store_id": "0898"
+    },
+    {
+        "location": "Orzinuovi",
+        "store_id": "0386"
+    },
+    {
+        "location": "Osimo",
+        "store_id": "0672"
+    },
+    {
+        "location": "Paderno Dugnano",
+        "store_id": "2181"
+    },
+    {
+        "location": "Padova",
+        "store_id": "3233"
+    },
+    {
+        "location": "Padova Guido Reni",
+        "store_id": "0537"
+    },
+    {
+        "location": "Padova Ovest",
+        "store_id": "0240"
+    },
+    {
+        "location": "Palermo Drive",
+        "store_id": "0088"
+    },
+    {
+        "location": "Palermo La Malfa",
+        "store_id": "0464"
+    },
+    {
+        "location": "Palermo Pecoraino",
+        "store_id": "0714"
+    },
+    {
+        "location": "Pantigliate",
+        "store_id": "0251"
+    },
+    {
+        "location": "Parco Leonardo",
+        "store_id": "0557"
+    },
+    {
+        "location": "Parma Est",
+        "store_id": "0597"
+    },
+    {
+        "location": "Parma San Leonardo",
+        "store_id": "0350"
+    },
+    {
+        "location": "Pavia Brambilla",
+        "store_id": "0477"
+    },
+    {
+        "location": "Pavone Canavese",
+        "store_id": "2220"
+    },
+    {
+        "location": "Perugia Collestrada",
+        "store_id": "0065"
+    },
+    {
+        "location": "Perugia San Sisto",
+        "store_id": "0426"
+    },
+    {
+        "location": "Perugia Stadio",
+        "store_id": "0736"
+    },
+    {
+        "location": "Pesaro Gagarin Drive",
+        "store_id": "0682"
+    },
+    {
+        "location": "Pescara Marconi",
+        "store_id": "0650"
+    },
+    {
+        "location": "Pescara Via della Riviera",
+        "store_id": "0990"
+    },
+    {
+        "location": "Peschiera",
+        "store_id": "0377"
+    },
+    {
+        "location": "Piacenza Stazione",
+        "store_id": "0146"
+    },
+    {
+        "location": "Pioltello",
+        "store_id": "0709"
+    },
+    {
+        "location": "Piombino",
+        "store_id": "0204"
+    },
+    {
+        "location": "Pisa Darsena",
+        "store_id": "0688"
+    },
+    {
+        "location": "Pisa Miracoli",
+        "store_id": "0412"
+    },
+    {
+        "location": "Pomezia Castelli Romani",
+        "store_id": "0638"
+    },
+    {
+        "location": "Pomezia Via Roma",
+        "store_id": "0849"
+    },
+    {
+        "location": "Pomigliano d'Arco",
+        "store_id": "0754"
+    },
+    {
+        "location": "Pompei Mall",
+        "store_id": "0556"
+    },
+    {
+        "location": "Pordenone",
+        "store_id": "0147"
+    },
+    {
+        "location": "Porto San Giorgio Drive",
+        "store_id": "0247"
+    },
+    {
+        "location": "Prato",
+        "store_id": "0357"
+    },
+    {
+        "location": "Puegnago",
+        "store_id": "0491"
+    },
+    {
+        "location": "Quarto Mall",
+        "store_id": "0876"
+    },
+    {
+        "location": "Quartu Sant'Elena Poetto",
+        "store_id": "0728"
+    },
+    {
+        "location": "Quartucciu",
+        "store_id": "0126"
+    },
+    {
+        "location": "Ragusa drive",
+        "store_id": "0281"
+    },
+    {
+        "location": "Ravenna Ipercoop",
+        "store_id": "0090"
+    },
+    {
+        "location": "Ravenna via Trieste",
+        "store_id": "0656"
+    },
+    {
+        "location": "Reggio Calabria Tangenziale",
+        "store_id": "0509"
+    },
+    {
+        "location": "Reggio Emilia Sud",
+        "store_id": "0772"
+    },
+    {
+        "location": "Reggio Emilia Tien An Men",
+        "store_id": "0504"
+    },
+    {
+        "location": "Rende",
+        "store_id": "0064"
+    },
+    {
+        "location": "Rende Marconi",
+        "store_id": "0439"
+    },
+    {
+        "location": "Rescaldina",
+        "store_id": "0238"
+    },
+    {
+        "location": "Rho Drive",
+        "store_id": "0819"
+    },
+    {
+        "location": "Rimini Flaminia",
+        "store_id": "0632"
+    },
+    {
+        "location": "Rimini Le Befane",
+        "store_id": "0353"
+    },
+    {
+        "location": "Rimini Popilia",
+        "store_id": "0589"
+    },
+    {
+        "location": "Rivoli",
+        "store_id": "0445"
+    },
+    {
+        "location": "Rodengo Saiano Outlet",
+        "store_id": "0887"
+    },
+    {
+        "location": "Roma Anagnina",
+        "store_id": "0363"
+    },
+    {
+        "location": "Roma Annibaliano",
+        "store_id": "0041"
+    },
+    {
+        "location": "Roma Appia",
+        "store_id": "0560"
+    },
+    {
+        "location": "Roma Aurelia",
+        "store_id": "0186"
+    },
+    {
+        "location": "Roma Borgo Pio",
+        "store_id": "0812"
+    },
+    {
+        "location": "Roma C.so Francia",
+        "store_id": "0030"
+    },
+    {
+        "location": "Roma Capena",
+        "store_id": "0448"
+    },
+    {
+        "location": "Roma Casal del Marmo",
+        "store_id": "0466"
+    },
+    {
+        "location": "Roma Casalotti",
+        "store_id": "0747"
+    },
+    {
+        "location": "Roma Dragona",
+        "store_id": "0480"
+    },
+    {
+        "location": "Roma EUR",
+        "store_id": "0373"
+    },
+    {
+        "location": "Roma Giolitti",
+        "store_id": "0040"
+    },
+    {
+        "location": "Roma Giulio Cesare",
+        "store_id": "0562"
+    },
+    {
+        "location": "Roma Lunghezza",
+        "store_id": "0359"
+    },
+    {
+        "location": "Roma Mirti",
+        "store_id": "0701"
+    },
+    {
+        "location": "Roma Nomentana",
+        "store_id": "0469"
+    },
+    {
+        "location": "Roma P.zza delle Cinque Lune",
+        "store_id": "0813"
+    },
+    {
+        "location": "Roma P.zza Di Spagna",
+        "store_id": "0002"
+    },
+    {
+        "location": "Roma Palaia",
+        "store_id": "0413"
+    },
+    {
+        "location": "Roma Parchi Colombo",
+        "store_id": "0134"
+    },
+    {
+        "location": "Roma Pio XI",
+        "store_id": "3224"
+    },
+    {
+        "location": "Roma Prati Fiscali",
+        "store_id": "0033"
+    },
+    {
+        "location": "Roma Regina Margherita",
+        "store_id": "0611"
+    },
+    {
+        "location": "Roma San Paolo",
+        "store_id": "0419"
+    },
+    {
+        "location": "Roma Stradivari",
+        "store_id": "0452"
+    },
+    {
+        "location": "Roma Sturzo",
+        "store_id": "0003"
+    },
+    {
+        "location": "Roma Tiburtina Cavallari",
+        "store_id": "0178"
+    },
+    {
+        "location": "Roma Tiburtina De Paolis",
+        "store_id": "0024"
+    },
+    {
+        "location": "Roma Tor Vergata Mall",
+        "store_id": "0735"
+    },
+    {
+        "location": "Roma Torpignattara",
+        "store_id": "0829"
+    },
+    {
+        "location": "Roma Tre Fontane Drive",
+        "store_id": "0810"
+    },
+    {
+        "location": "Roma V.le America",
+        "store_id": "0029"
+    },
+    {
+        "location": "Roma Valle Aurelia",
+        "store_id": "0678"
+    },
+    {
+        "location": "Romagnano Sesia",
+        "store_id": "0619"
+    },
+    {
+        "location": "Romanina",
+        "store_id": "0522"
+    },
+    {
+        "location": "Roncadelle Mall",
+        "store_id": "0811"
+    },
+    {
+        "location": "Rovereto",
+        "store_id": "0536"
+    },
+    {
+        "location": "Rovigo",
+        "store_id": "0124"
+    },
+    {
+        "location": "Rozzano",
+        "store_id": "0498"
+    },
+    {
+        "location": "Rubano",
+        "store_id": "0607"
+    },
+    {
+        "location": "S.Giovanni Teatino",
+        "store_id": "0279"
+    },
+    {
+        "location": "S.Giuliano Terme",
+        "store_id": "0221"
+    },
+    {
+        "location": "Salerno Mall",
+        "store_id": "0830"
+    },
+    {
+        "location": "San Benedetto Del Tronto",
+        "store_id": "0142"
+    },
+    {
+        "location": "San Bonifacio Drive",
+        "store_id": "0877"
+    },
+    {
+        "location": "San Giovanni Lupatoto Drive",
+        "store_id": "0684"
+    },
+    {
+        "location": "San Martino Siccomario",
+        "store_id": "0261"
+    },
+    {
+        "location": "San Maurizio Canavese",
+        "store_id": "0858"
+    },
+    {
+        "location": "San Prisco",
+        "store_id": "0368"
+    },
+    {
+        "location": "San Vendemiano - Conegliano",
+        "store_id": "0284"
+    },
+    {
+        "location": "San Vittore Olona",
+        "store_id": "0781"
+    },
+    {
+        "location": "Sarzana",
+        "store_id": "0384"
+    },
+    {
+        "location": "Sassari",
+        "store_id": "2231"
+    },
+    {
+        "location": "Sassuolo",
+        "store_id": "0122"
+    },
+    {
+        "location": "Savona",
+        "store_id": "0608"
+    },
+    {
+        "location": "Schio Drive",
+        "store_id": "0269"
+    },
+    {
+        "location": "Sedriano",
+        "store_id": "0609"
+    },
+    {
+        "location": "Segrate",
+        "store_id": "0459"
+    },
+    {
+        "location": "Segrate Cassanese",
+        "store_id": "0718"
+    },
+    {
+        "location": "Senigallia",
+        "store_id": "0148"
+    },
+    {
+        "location": "Serravalle Scrivia Outlet",
+        "store_id": "0449"
+    },
+    {
+        "location": "Sesto San Giovanni - Sarca",
+        "store_id": "0330"
+    },
+    {
+        "location": "Sesto San Giovanni v.le Italia",
+        "store_id": "0354"
+    },
+    {
+        "location": "Sestu",
+        "store_id": "0731"
+    },
+    {
+        "location": "Siderno",
+        "store_id": "0280"
+    },
+    {
+        "location": "Silea",
+        "store_id": "0729"
+    },
+    {
+        "location": "Siracusa Drive",
+        "store_id": "0301"
+    },
+    {
+        "location": "Siracusa Melilli C.C. Belvedere Auchan",
+        "store_id": "0336"
+    },
+    {
+        "location": "Solbiate Arno",
+        "store_id": "0506"
+    },
+    {
+        "location": "Somma Lombardo",
+        "store_id": "0117"
+    },
+    {
+        "location": "Sora",
+        "store_id": "0533"
+    },
+    {
+        "location": "Stezzano",
+        "store_id": "0566"
+    },
+    {
+        "location": "Stradella",
+        "store_id": "0455"
+    },
+    {
+        "location": "Taranto",
+        "store_id": "0110"
+    },
+    {
+        "location": "Tavagnacco",
+        "store_id": "0333"
+    },
+    {
+        "location": "Tavernola",
+        "store_id": "3240"
+    },
+    {
+        "location": "Terracina Drive",
+        "store_id": "0651"
+    },
+    {
+        "location": "Teverola",
+        "store_id": "0436"
+    },
+    {
+        "location": "Thiene Drive",
+        "store_id": "0857"
+    },
+    {
+        "location": "Torino Lingotto Mall",
+        "store_id": "0803"
+    },
+    {
+        "location": "Torino Monginevro (Norauto)",
+        "store_id": "0340"
+    },
+    {
+        "location": "Torino Santa Rita",
+        "store_id": "0847"
+    },
+    {
+        "location": "Torino Sant'Ottavio",
+        "store_id": "0872"
+    },
+    {
+        "location": "Torino via Livorno",
+        "store_id": "0492"
+    },
+    {
+        "location": "Torre Annunziata Retail Park",
+        "store_id": "0456"
+    },
+    {
+        "location": "Torri di Quartesolo",
+        "store_id": "2137"
+    },
+    {
+        "location": "Tradate",
+        "store_id": "0388"
+    },
+    {
+        "location": "Trapani",
+        "store_id": "0613"
+    },
+    {
+        "location": "Trento",
+        "store_id": "0211"
+    },
+    {
+        "location": "Trento Nord",
+        "store_id": "0734"
+    },
+    {
+        "location": "Treviglio",
+        "store_id": "0180"
+    },
+    {
+        "location": "Treviso Repubblica",
+        "store_id": "0545"
+    },
+    {
+        "location": "Trieste Goldoni",
+        "store_id": "0674"
+    },
+    {
+        "location": "Trieste Mall",
+        "store_id": "0320"
+    },
+    {
+        "location": "Udine",
+        "store_id": "0077"
+    },
+    {
+        "location": "Varese 1",
+        "store_id": "0021"
+    },
+    {
+        "location": "Varese Stadio",
+        "store_id": "0665"
+    },
+    {
+        "location": "Velletri",
+        "store_id": "0595"
+    },
+    {
+        "location": "Verano Brianza",
+        "store_id": "0733"
+    },
+    {
+        "location": "Verolanuova",
+        "store_id": "0400"
+    },
+    {
+        "location": "Verona Adige Mall",
+        "store_id": "0845"
+    },
+    {
+        "location": "Verona Fiera",
+        "store_id": "0196"
+    },
+    {
+        "location": "Verona Milano",
+        "store_id": "0141"
+    },
+    {
+        "location": "Verona Porta Nuova",
+        "store_id": "0005"
+    },
+    {
+        "location": "Verona Via Preare",
+        "store_id": "0816"
+    },
+    {
+        "location": "Viareggio Drive",
+        "store_id": "0834"
+    },
+    {
+        "location": "Vicenza Mall",
+        "store_id": "0531"
+    },
+    {
+        "location": "Vicenza San Lazzaro",
+        "store_id": "0462"
+    },
+    {
+        "location": "Vigevano",
+        "store_id": "0515"
+    },
+    {
+        "location": "Vignate",
+        "store_id": "0300"
+    },
+    {
+        "location": "Vignola",
+        "store_id": "0507"
+    },
+    {
+        "location": "Villaricca",
+        "store_id": "0339"
+    },
+    {
+        "location": "Villesse Mall",
+        "store_id": "0584"
+    },
+    {
+        "location": "Vimercate",
+        "store_id": "0283"
+    },
+    {
+        "location": "Viterbo Garbini",
+        "store_id": "0799"
+    },
+    {
+        "location": "Viterbo San Paolo",
+        "store_id": "0604"
+    },
+    {
+        "location": "Voghera",
+        "store_id": "0837"
+    },
+    {
+        "location": "Zumpano CS",
+        "store_id": "0356"
+    }
+]
